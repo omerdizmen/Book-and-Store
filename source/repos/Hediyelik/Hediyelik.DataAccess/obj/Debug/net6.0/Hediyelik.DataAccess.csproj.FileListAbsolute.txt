@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\obj\Debug\net6.0\Hediyelik.DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\obj\Debug\net6.0\Hediyelik.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\obj\Debug\net6.0\Hediyelik.DataAccess.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\obj\Debug\net6.0\Hediyelik.DataAccess.AssemblyInfo.cs
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\obj\Debug\net6.0\Hediyelik.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\bin\Debug\net6.0\Hediyelik.DataAccess.deps.json
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\bin\Debug\net6.0\Hediyelik.DataAccess.dll
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\bin\Debug\net6.0\Hediyelik.DataAccess.pdb
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\bin\Debug\net6.0\Hediyelik.Models.dll
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\bin\Debug\net6.0\Hediyelik.Models.pdb
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\obj\Debug\net6.0\Hediyelik.DataAccess.csproj.CopyComplete
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\obj\Debug\net6.0\Hediyelik.DataAccess.dll
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\obj\Debug\net6.0\refint\Hediyelik.DataAccess.dll
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\obj\Debug\net6.0\Hediyelik.DataAccess.pdb
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.DataAccess\obj\Debug\net6.0\ref\Hediyelik.DataAccess.dll

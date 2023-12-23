@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Models\bin\Debug\net6.0\Hediyelik.Models.deps.json
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Models\bin\Debug\net6.0\Hediyelik.Models.dll
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Models\bin\Debug\net6.0\Hediyelik.Models.pdb
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Models\obj\Debug\net6.0\Hediyelik.Models.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Models\obj\Debug\net6.0\Hediyelik.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Models\obj\Debug\net6.0\Hediyelik.Models.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Models\obj\Debug\net6.0\Hediyelik.Models.AssemblyInfo.cs
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Models\obj\Debug\net6.0\Hediyelik.Models.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Models\obj\Debug\net6.0\Hediyelik.Models.dll
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Models\obj\Debug\net6.0\refint\Hediyelik.Models.dll
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Models\obj\Debug\net6.0\Hediyelik.Models.pdb
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Models\obj\Debug\net6.0\ref\Hediyelik.Models.dll

@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Utility\bin\Debug\net6.0\Hediyelik.Utility.deps.json
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Utility\bin\Debug\net6.0\Hediyelik.Utility.dll
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Utility\bin\Debug\net6.0\Hediyelik.Utility.pdb
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Utility\obj\Debug\net6.0\Hediyelik.Utility.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Utility\obj\Debug\net6.0\Hediyelik.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Utility\obj\Debug\net6.0\Hediyelik.Utility.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Utility\obj\Debug\net6.0\Hediyelik.Utility.AssemblyInfo.cs
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Utility\obj\Debug\net6.0\Hediyelik.Utility.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Utility\obj\Debug\net6.0\Hediyelik.Utility.dll
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Utility\obj\Debug\net6.0\refint\Hediyelik.Utility.dll
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Utility\obj\Debug\net6.0\Hediyelik.Utility.pdb
+C:\Users\PC\source\repos\Hediyelik\Hediyelik.Utility\obj\Debug\net6.0\ref\Hediyelik.Utility.dll
